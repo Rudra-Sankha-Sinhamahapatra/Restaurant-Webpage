@@ -50,16 +50,37 @@
     float: left;
 }
 .navcontact{
-    background-color: #39DB4A;
-    border-radius: 30%;
-    padding: 10px;
+    background-color: #5FE26C;
+    background-size: cover;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
     height: 20px;
     position: relative;
     left: 250px;
     float: left;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 #rightnavicons{
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.navcontact img{
+    height: 17px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.navcontact p{
+    color: #EDFFEF;
+    margin: 0px;
 }
 
