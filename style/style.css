@@ -84,3 +84,71 @@
     margin: 0px;
 }
 
+.greenfood{
+    color: #39DB4A;
+}
+
+.home{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.homeleftcontent{
+    float: left;
+    width: 40%;
+    position: relative;
+    left: 7%;
+    top: 150px;
+}
+.homeheading{
+    font-family: 'Josefin Sans', sans-serif;
+    /* font-family: 'Libre Baskerville', serif; */
+    font-weight: 400;
+    font-size: 40px;
+    width: 100%;
+}
+.homepara{
+ font-family: sans-serif;
+ width: 70%;
+}
+.homeordericon{
+    background-color: #5FE26C;
+    border-radius: 30px;
+    background-size: cover;
+    width: 115px;
+    box-shadow: 5px 10px 10px #5FE26C;
+    position: relative;
+    top: 10px;
+}
+.homeorderpara{
+    color: #EDFFEF;
+    font-size: 15px;
+    padding-left: 5px;
+    text-align: center;
+    
+}
+.homewatchicon{
+    position: relative;
+    left: 15px;
+}
+.homewatchicon img{
+    height: 20px;
+    position: relative;
+    left: 15px;
+    top: 9px;
+    border: 10px solid #EDFFEF;
+    border-radius: 50%;
+    box-shadow: 0px 15px 10px #555555 ;
+}
+.homeicons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.homerightcontent{
+    float: right;
+    width: 40%;
+    right: 7%;
+}
