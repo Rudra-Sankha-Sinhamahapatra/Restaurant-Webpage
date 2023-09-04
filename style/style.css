@@ -1,0 +1,65 @@
+.foodieicon{
+    position: relative;
+    height: 30px;
+   right: 30px;
+}
+
+.nav{
+    width: 100%;
+    height: 40px;
+    position: relative;
+    top:30px;
+    left: 30px;
+}
+.navbarlist{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    flex-wrap: wrap;
+ 
+
+}
+.homenav{
+    color:#39DB4A;
+    margin-left: 100px;
+}
+#navdownsymbol{
+    color: #39DB4A;
+    border: none;
+}
+
+#navlist{
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+    top: 5px;
+}
+
+.searchnavicon{
+    height: 20px;
+    position: relative;
+    top: 5px;
+    left: 250px;
+    float: left;
+}
+.shoppingnavicon{
+    height: 20px;
+    position: relative;
+    top: 2px;
+    left: 250px;
+    float: left;
+}
+.navcontact{
+    background-color: #39DB4A;
+    border-radius: 30%;
+    padding: 10px;
+    height: 20px;
+    position: relative;
+    left: 250px;
+    float: left;
+}
+#rightnavicons{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
