@@ -411,6 +411,8 @@ left: 30px;
 }
 .offers{
     padding-top: 70px;
+    padding-left: 120px;
+    padding-bottom: 100px;
 }
 .offersh4{
     color: #FF7979;
@@ -458,4 +460,304 @@ left: 30px;
     text-align: center;
     background-color: #39DB4A;
     color: #EDFFEF;
+}
+
+.offeritems{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   align-items: start;
+   justify-content: first baseline;
+}
+
+.offeritem1{
+    background-color: #EDFFEF;
+    border-radius: 10px;
+    box-shadow: #555555 10px 20px 10px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    right: 50px;
+}
+
+.fattoushsalad{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.fattoushsalad2{
+    height: 20px;
+    width: 20px;
+    background-color: #39db4a;
+    background-size: cover;
+    background-repeat: no-repeat;
+  position: relative;
+  left: 10px;
+  top: 10px;
+ 
+}
+
+.fattoushsaladdiv1{
+   background-color: #39DB4A;
+   height: 37px;
+   width: 40px;
+   position: relative;
+   left: 160px;
+   bottom: 100px;
+   border: none;
+   border-radius: 0% 100% 0% 100% / 57% 42% 58% 43% ;
+}
+
+.fattoushpara1{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.fattoushpara2{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.fattoushpara3{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+.fattoushpara4{
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+
+.fattoushpara4 span{
+    color: #FF7979;
+    font-size: 12px;
+}
+
+.fattoushsalad1{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    left: 140px;
+    bottom: 70px;
+}
+
+.fattoushrating{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    left: 160px;
+    bottom: 102px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+
+.offeritem2{
+    background-color: #EDFFEF;
+    border-radius: 10px;
+    box-shadow: #555555 10px 20px 10px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 200px;
+    right: 50px;
+}
+
+.fattoushsalad{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.fattoushsalad2{
+    height: 20px;
+    width: 20px;
+    background-color: #39db4a;
+    background-size: cover;
+    background-repeat: no-repeat;
+  position: relative;
+  left: 10px;
+  top: 10px;
+ 
+}
+
+.fattoushsaladdiv1{
+   background-color: #39DB4A;
+   height: 37px;
+   width: 40px;
+   position: relative;
+   left: 160px;
+   bottom: 100px;
+   border: none;
+   border-radius: 0% 100% 0% 100% / 57% 42% 58% 43% ;
+}
+
+.fattoushpara1{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.fattoushpara2{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.fattoushpara3{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+.fattoushpara4{
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+
+.fattoushpara4 span{
+    color: #FF7979;
+    font-size: 12px;
+}
+
+.fattoushsalad1{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    left: 140px;
+    bottom: 70px;
+}
+
+.fattoushrating{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    left: 160px;
+    bottom: 102px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+
+
+.offeritem3{
+    background-color: #EDFFEF;
+    border-radius: 10px;
+    box-shadow: #555555 10px 20px 10px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 300px;
+    right: 50px;
+}
+
+.fattoushsalad{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.fattoushsalad2{
+    height: 20px;
+    width: 20px;
+    background-color: #39db4a;
+    background-size: cover;
+    background-repeat: no-repeat;
+  position: relative;
+  left: 10px;
+  top: 10px;
+ 
+}
+
+.fattoushsaladdiv1{
+   background-color: #39DB4A;
+   height: 37px;
+   width: 40px;
+   position: relative;
+   left: 160px;
+   bottom: 100px;
+   border: none;
+   border-radius: 0% 100% 0% 100% / 57% 42% 58% 43% ;
+}
+
+.fattoushpara1{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.fattoushpara2{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.fattoushpara3{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+.fattoushpara4{
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+
+.fattoushpara4 span{
+    color: #FF7979;
+    font-size: 12px;
+}
+
+.fattoushsalad1{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    left: 140px;
+    bottom: 70px;
+}
+
+.fattoushrating{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    left: 160px;
+    bottom: 102px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
 }
