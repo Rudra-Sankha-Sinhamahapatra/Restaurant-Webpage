@@ -150,5 +150,100 @@
 .homerightcontent{
     float: right;
     width: 40%;
+    position: relative;
     right: 7%;
+}
+
+.hotspicyfoodimg{
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: 40px;
+}
+
+.hotspicychild{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.hotspicychild1{
+    background-color:#EDFFEF;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px #555555;
+    height: 80px;
+    width: 200px;
+    position: relative;
+    left: 60px;
+}
+
+.child1img1{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.child1img2{
+    height: 10px;
+    width: 70px;
+    position: relative;
+    left: 85px;
+    bottom: 94px;
+}
+.homevegetablediv1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.child1para1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    width: 20%;
+    position: relative;
+    left: 80px;
+    bottom: 60px;
+}
+
+.child1para3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    width: 20%;
+    position: relative;
+    left: 146px;
+    bottom: 85px;
+}
+
+.child1para2{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 84px;
+    bottom: 91px;
+
+}
+.child1para2 span{
+    color: #FF7979;
+    font-size: 11px;
+}
+.vegetablediv1{
+    width: 100%;
+}
+
+.hotspicychild2{
+    background-color: #EDFFEF;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px #555555;
+    height: 80px;
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+
+.child2img1{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
