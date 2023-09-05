@@ -247,3 +247,42 @@
     top: 10px;
     left: 10px;
 }
+
+.child2img2{
+    height: 10px;
+    width: 70px;
+    position: relative;
+    left: 85px;
+    bottom: 94px;
+}
+
+.child2para1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    width: 20%;
+    position: relative;
+    left: 80px;
+    bottom: 60px;
+}
+
+.child2para3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    width: 20%;
+    position: relative;
+    left: 112px;
+    bottom: 85px;
+}
+
+
+.child2para2{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 84px;
+    bottom: 91px;
+}
+
+.child2para2 span{
+  color: #FF7979;
+  font-size: 11px;
+}
