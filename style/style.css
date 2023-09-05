@@ -409,3 +409,53 @@ left: 30px;
     left: 25px;
     top: 30px;
 }
+.offers{
+    padding-top: 70px;
+}
+.offersh4{
+    color: #FF7979;
+    font-size: 11px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: solid;
+    letter-spacing: 1px;
+    position: relative;
+    left: 100px;
+}
+
+.offersh2{
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    left: 100px;
+    font-weight: 400;
+    width: 200px;
+}
+
+.round-button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    float: right;
+    right: 260px;
+    bottom: 60px;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+.roundbutton2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    float: right;
+    right: 170px;
+    bottom: 60px;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    background-color: #39DB4A;
+    color: #EDFFEF;
+}
