@@ -589,3 +589,97 @@ left: 30px;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 15px;
 }
+
+.leftreviewcontent{
+    float: left;
+    width: 40%;
+}
+
+.reviewleftimg1{
+    position: relative;
+    left: 200px;
+    height: 420px;
+    width: 420px;
+}
+.rightreviewcontent{
+    float: right;
+}
+.reviewh4{
+    color: #FF7979;
+    font-size: 11px;
+    letter-spacing: 1px;
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    right: 200px;
+    top: 30px;
+}
+
+.reviewh1{
+  position: relative;
+  right: 200px;
+  width: 260px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.reviewpara1{
+    width: 350px;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    right: 200px;
+}
+
+.reviewimg1{
+    height: 38px;
+    width: 40px;
+    position: relative;
+    right: 200px;
+    bottom: 6px;
+}
+
+
+.reviewimg2{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    right: 220px;
+    bottom: 4px;
+}
+
+
+.reviewimg3{
+    height: 40px;
+    width: 40px;
+    position: relative;
+    right: 240px;
+    bottom: 4px;
+}
+
+.reviewbold1{
+    position: relative;
+    bottom: 34px;
+    right: 220px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.reviewratingimg{
+    height: 12px;
+    position: relative;
+    right: 372px;
+    bottom: 10px;
+}
+
+
+.reviewbold2{
+    position: relative;
+    bottom: 11px;
+    right: 370px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.reviewpara2{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    bottom: 42px;
+    right: 40px;
+}
