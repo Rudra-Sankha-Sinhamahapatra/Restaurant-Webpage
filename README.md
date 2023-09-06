@@ -10,3 +10,4 @@ colors used:
 #90BD95
 #EDFFEF
 
+<img style="position: relative; left: 400px;" src="public/images/target/Resturent website (1).png" alt="" width="400px" >
